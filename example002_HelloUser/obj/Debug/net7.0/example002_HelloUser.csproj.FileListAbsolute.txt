@@ -1,0 +1,14 @@
+F:\Evgeniya\project\c#\gb\examples\example002_HelloUser\bin\Debug\net7.0\example002_HelloUser.exe
+F:\Evgeniya\project\c#\gb\examples\example002_HelloUser\bin\Debug\net7.0\example002_HelloUser.deps.json
+F:\Evgeniya\project\c#\gb\examples\example002_HelloUser\bin\Debug\net7.0\example002_HelloUser.runtimeconfig.json
+F:\Evgeniya\project\c#\gb\examples\example002_HelloUser\bin\Debug\net7.0\example002_HelloUser.dll
+F:\Evgeniya\project\c#\gb\examples\example002_HelloUser\bin\Debug\net7.0\example002_HelloUser.pdb
+F:\Evgeniya\project\c#\gb\examples\example002_HelloUser\obj\Debug\net7.0\example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+F:\Evgeniya\project\c#\gb\examples\example002_HelloUser\obj\Debug\net7.0\example002_HelloUser.AssemblyInfoInputs.cache
+F:\Evgeniya\project\c#\gb\examples\example002_HelloUser\obj\Debug\net7.0\example002_HelloUser.AssemblyInfo.cs
+F:\Evgeniya\project\c#\gb\examples\example002_HelloUser\obj\Debug\net7.0\example002_HelloUser.csproj.CoreCompileInputs.cache
+F:\Evgeniya\project\c#\gb\examples\example002_HelloUser\obj\Debug\net7.0\example002_HelloUser.dll
+F:\Evgeniya\project\c#\gb\examples\example002_HelloUser\obj\Debug\net7.0\refint\example002_HelloUser.dll
+F:\Evgeniya\project\c#\gb\examples\example002_HelloUser\obj\Debug\net7.0\example002_HelloUser.pdb
+F:\Evgeniya\project\c#\gb\examples\example002_HelloUser\obj\Debug\net7.0\example002_HelloUser.genruntimeconfig.cache
+F:\Evgeniya\project\c#\gb\examples\example002_HelloUser\obj\Debug\net7.0\ref\example002_HelloUser.dll
